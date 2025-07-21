@@ -316,4 +316,3 @@ impl Lexer {
         self.position >= self.source.len()
     }
 }
-

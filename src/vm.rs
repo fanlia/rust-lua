@@ -446,4 +446,3 @@ fn to_string(_vm: &mut Vm, args: Vec<Value>) -> Value {
 
     Value::String(args[0].to_string())
 }
-
